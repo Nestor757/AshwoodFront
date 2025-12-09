@@ -10,4 +10,4 @@ The project includes:
 - a tank research branch, 
 - a tank upgrade system, 
 - a basic map with scene loading,
-- combat system.
+- part of the combat system.
